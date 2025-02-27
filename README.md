@@ -86,6 +86,7 @@ FastReferral is a robust API built with FastAPI that provides a complete authent
    ACCESS_TOKEN_EXPIRE_MINUTES=1440
    EMAIL=your_email@gmail.com
    PASSWORD=your_app_password
+   TEST_EMAIL = "testing@gmail.com"
    ```
 
 5. **Initialize the database**
